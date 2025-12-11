@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sca_logo.png" alt="SCA Logo" width="180">
+</p>
+
 # sca-project
 This repository contains a complete implementation of the Sine Cosine Algorithm (SCA) developed for an academic project on evolutionary computation and optimization techniques.
 
