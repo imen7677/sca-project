@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sca_logo.png" alt="SCA Logo" width="180">
+  <img src="sca.png" alt="SCA Logo" width="180">
 </p>
 
 # sca-project
